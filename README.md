@@ -27,10 +27,33 @@ Topics:
 
 ## Progress
 
-| Lecture | Status |
-|----------|----------|
+| Lecture   | Status      |
+| --------- | ----------- |
 | Lecture 1 | Not Started |
 | Lecture 2 | Not Started |
 | Lecture 3 | Not Started |
 | Lecture 4 | Not Started |
 | Lecture 5 | Not Started |
+
+# Fundamental Course of Data Architecture 2.0
+
+## Progress
+
+- [x] Lesson 01
+- [ ] Lesson 02
+- [ ] Lesson 03
+- [ ] Lesson 04
+- [ ] Lesson 05
+
+## Goal
+
+เรียนพื้นฐาน Data Architecture
+เพื่อเข้าใจภาพรวมของ Enterprise Data Platform
+
+## Topics
+
+1. What Data Architecture 2.0 is and why it's relevant
+2. Types, Layers, Frameworks and DBMS
+3. Functions, Principles and Patterns
+4. Business and BI Architecture
+5. Data Architect Career Path
