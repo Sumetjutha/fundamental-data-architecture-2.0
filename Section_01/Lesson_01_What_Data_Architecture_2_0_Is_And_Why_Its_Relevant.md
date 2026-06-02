@@ -200,7 +200,9 @@ Product Demand
 
 Missing Data
 Duplicate Data
-Format Mismatch 2. Scalability
+Format Mismatch
+
+2. Scalability
 
 ข้อมูลโตขึ้นเรื่อย ๆ
 
